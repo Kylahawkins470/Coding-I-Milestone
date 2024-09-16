@@ -1,0 +1,26 @@
+Body{
+    background-color: pink;
+}
+h1{
+    background-color: yellow; color:pink
+    
+}
+#table{
+    border-style:dotted;
+    color: rgb(224, 99, 99);
+}
+.image{
+    width: 125px;
+    height: 125px;
+    align:center;
+}
+.Header{
+    text-align: center;}
+   
+    @keyframes{
+        from{color:red }
+        to{color:SkyBlue}
+    }
+.Main{
+    align-text
+}
