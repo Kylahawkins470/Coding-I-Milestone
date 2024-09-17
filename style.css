@@ -2,25 +2,35 @@ Body{
     background-color: pink;
 }
 h1{
-    background-color: yellow; color:pink
+    background-color: yellow;
+    text-align{center}
     
 }
 #table{
     border-style:dotted;
     color: rgb(224, 99, 99);
+    tex
 }
 .image{
-    width: 125px;
-    height: 125px;
-    align:center;
+    width:125px;
+    height:125px;
 }
-.Header{
-    text-align: center;}
+Header{
+    text-align:center;
+    color:red;
+    font-size:40px;
+    font-family:fantasy;}
    
-    @keyframes{
-        from{color:red }
-        to{color:SkyBlue}
-    }
-.Main{
-    align-text
+
+Main{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+footer{
+    text-align:center;
+}
+Header:hover{
+color: SkyBlue;
 }
