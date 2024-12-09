@@ -1,26 +1,11 @@
 Body{
     background-color: pink;
 }
-h1{
-    background-color: yellow;
-    text-align{center}
-    
-}
-#table{
-    border-style:dotted;
-    color: rgb(224, 99, 99);
-    tex
-}
+
 .image{
     width:125px;
     height:125px;
 }
-Header{
-    text-align:center;
-    color:red;
-    font-size:40px;
-    font-family:fantasy;}
-   
 
 Main{
     text-align: center;
@@ -30,7 +15,4 @@ p{
 }
 footer{
     text-align:center;
-}
-Header:hover{
-color: SkyBlue;
 }
